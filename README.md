@@ -192,6 +192,14 @@ Used for working with dates and timestamps for logging and tracking system event
 
 ---
 
+## 🎥 FaceTrack Demo
+
+<p align="center">
+  <img src="Support%20Files/Slide.gif" width="700" height="400">
+</p>
+
+---
+
 ## 🚀 Future Enhancements
 
 - 🔬 Integration of deep learning models (CNN, FaceNet) for higher accuracy  
